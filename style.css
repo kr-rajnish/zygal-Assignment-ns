@@ -21,3 +21,8 @@ canvas {
   text-decoration: underline blue;
   color: blue;
 }
+
+#canvas {
+  background-color: rgb(116, 89, 253);
+}
+
